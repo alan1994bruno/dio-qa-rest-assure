@@ -20,7 +20,7 @@ Este repositório contém a implementação de uma suíte de testes automatizado
 * `video.webm`: Gravação demonstrando a execução via terminal da suíte de testes e a renderização interativa do Allure Report.
 * `src/test/resources/schemas/`: Armazenamento isolado dos arquivos de validação de contrato.
 
-<video controls src="video.webm" width="100%"></video>
+<video controls src="Video.webm" width="100%"></video>
 
 ## Tutorial de Configuração e Execução
 
