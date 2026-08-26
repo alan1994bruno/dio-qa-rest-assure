@@ -1,3 +1,4 @@
+
 # Automação de Testes API - Restful-Booker
 
 ## Resumo do Projeto
@@ -20,7 +21,7 @@ Este repositório contém a implementação de uma suíte de testes automatizado
 * `video.webm`: Gravação demonstrando a execução via terminal da suíte de testes e a renderização interativa do Allure Report.
 * `src/test/resources/schemas/`: Armazenamento isolado dos arquivos de validação de contrato.
 
-<video controls src="Video.webm" width="100%"></video>
+[Video.webm](https://github.com/user-attachments/assets/4d505214-b893-4de8-a89d-a597c8bd2b65)
 
 ## Tutorial de Configuração e Execução
 
